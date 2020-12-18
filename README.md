@@ -17,7 +17,7 @@ Luego de crear correctamente la base de datos, se deben agregar los datos de la 
 
 ![DB Config](/readme_images/db.png)
 
-Finalmente para concluir la instalación del sistema, se debe ejecutar el script que se encuentra en “application/config/dbmodel.sql”, el cual contiene las tablas necesarias de la base de datos. Una vez realizado todos los pasos mencionados, se podrá navegar a través de la aplicación. Por defecto se crea un usuario administrador cuyo correo es “admin@mail.com” y contraseña es “123456”. Los datos del usuario administrador pueden cambiarse en cualquier momento, consultar manual de usuario del sistema.
+Finalmente para concluir la instalación del sistema, se debe ejecutar el script que se encuentra en “application/config/dbmodel.sql”, el cual contiene las tablas necesarias de la base de datos. Una vez realizado todos los pasos mencionados, se podrá navegar a través de la aplicación. Por defecto se crea un usuario administrador cuyo correo es “admin@internshipfinder.com” y contraseña es “123456”. Los datos del usuario administrador pueden cambiarse en cualquier momento, consultar manual de usuario del sistema.
 
 #### Estructura del Sistema
 La estructura del sistema consiste en dos directorios principales, “application” y “public_html”. El directorio “application” corresponde al backend del sistema que contiene todas las clases y métodos que el sistema utiliza. Por otro lado el directorio “public_html” corresponde a los archivos de acceso público y estilos y procesamiento del frontend.
